@@ -27,6 +27,3 @@ Ideas:
 
 JustBooks
 Stream music real time together (1 speaker, multiple listeners. Interface: Music player) - Make SDK and Make UI
-
-
-
