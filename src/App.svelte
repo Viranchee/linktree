@@ -4,7 +4,7 @@
 
 <main>
 	<h1>Hello, I am {name}!!!</h1>
-	<p>This project is going to be a collaboration with Danyl Fernandez over making a web version of LinkTree</p>
+	<p>This project is going to be a collaboration with Danyl Fernandes over making a web version of LinkTree</p>
 </main>
 
 <style>
