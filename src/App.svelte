@@ -4,7 +4,9 @@
 
 <main>
 	<h1>Hello, I am {name}!!!</h1>
-	<p>This project is going to be a collaboration with Danyl Fernandes over making a web version of LinkTree</p>
+	<p>Interests: Computer Architecture and RTL design</p>
+	<p>Previously: iOS App Developer, Embedded Developer</p>
+	
 </main>
 
 <style>
